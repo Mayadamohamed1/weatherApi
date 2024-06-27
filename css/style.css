@@ -1,0 +1,25 @@
+main {
+    background-image: url(../imgs/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.temp-type {
+    font-size: 14px;
+    margin: 0;
+}
+
+
+.form-control:focus {
+    box-shadow: unset;
+}
+
+input[placeholder]::input-placeholder {
+    color: darkblue;
+}
+
+
+
+
